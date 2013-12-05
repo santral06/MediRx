@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"               
+               
+               android:gravity="fill_horizontal"
+                 >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+      <CheckBox
+          android:id="@+id/markReview"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"          
+          android:button="@drawable/checkbox_selector"
+          android:layout_gravity="right|center_vertical"
+          android:paddingRight="5dip" />
+</LinearLayout>
+</RelativeLayout>

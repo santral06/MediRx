@@ -1,0 +1,21 @@
+<Data>
+      
+	<Disease
+		disease_name="Stroke" 
+	    top_category="Nörolojik Aciller"
+		diagnose="Solunum sıkıntısı başka sebeplere de bağlı olabilir. Mesela pulmoner emboli olabilir. Veya anemi nedeniyle olabilir. Bu durumlarda ventolin pulmicort ile hasta rahatlamaz. Dikkat edilmelidir. Her hastada EKG görülmesi iyi olur.
+( ÖRN: Solunum sıkıntısıyla bir hasta geldi. Ventolin pulmicort oksijen verdik ve nerdeyse hiç rahatlamadı. Sonra hemogram istedim her ihtimale karşı. Hastanın hemoglobini 6,1 geldi. Yani solunum sıkıntısı anemi nedeniyleymiş. Ve sorguladığımda birkaç gündür vaginal kanaması olduğunu söyledi. Derin anemi tanısıyla hastayı sevk ettim. Yani anemi de akılda tutulmalı. )"
+		treatment="1.) Avmigran tb 1x1 (ilk 3 gün)
+2.) Devamında sandomigran 1x1"
+      />
+	  
+	  	<Disease
+		disease_name="HT" 
+	    top_category="Nörolojik Aciller"
+		diagnose="Solunum sıkıntısı başka sebeplere de bağlı olabilir. Mesela pulmoner emboli olabilir. Veya anemi nedeniyle olabilir. Bu durumlarda ventolin pulmicort ile hasta rahatlamaz. Dikkat edilmelidir. Her hastada EKG görülmesi iyi olur.
+( ÖRN: Solunum sıkıntısıyla bir hasta geldi. Ventolin pulmicort oksijen verdik ve nerdeyse hiç rahatlamadı. Sonra hemogram istedim her ihtimale karşı. Hastanın hemoglobini 6,1 geldi. Yani solunum sıkıntısı anemi nedeniyleymiş. Ve sorguladığımda birkaç gündür vaginal kanaması olduğunu söyledi. Derin anemi tanısıyla hastayı sevk ettim. Yani anemi de akılda tutulmalı. )"
+		treatment="1.) Avmigran tb 1x1 (ilk 3 gün)
+2.) Devamında sandomigran 1x1"
+      />
+
+</Data>	  
